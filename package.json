@@ -18,7 +18,7 @@
     "context",
     "privacy"
   ],
-  "author": "",
+  "author": "Hussain Biedouh",
   "license": "MIT",
   "devDependencies": {
     "@opencode-ai/plugin": "^1.17.13",

@@ -14,7 +14,7 @@ OpenCode plugin: send a prompt now, keep only the answer. The question is droppe
 
 ```bash
 # Global (all projects)
-opencode plugin add https://github.com/<your-username>/opencode-anon-turn
+opencode plugin add https://github.com/hussainbiedouh/opencode-anon-turn
 
 # Or local: drop this repo in ~/.config/opencode/plugins/anon-turn
 # then add "./plugins/anon-turn" to plugins in opencode.jsonc
