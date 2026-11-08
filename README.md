@@ -64,6 +64,8 @@ Model:   (omitted)  ← no idea, the question is gone
 
 ## Comparison with `/btw`
 
+OpenCode's `/btw` asks a side question using session context and shows the answer in a dialog — nothing is added to the conversation and it cannot run tools or make changes. `/anon` is the opposite: it runs as a real turn (tools, edits, everything), keeps the answer in chat, then scrubs the question and its tool evidence from future context.
+
 | | `/btw` | `/anon` |
 |---|---|---|
 | Runs tools | ❌ | ✅ |
